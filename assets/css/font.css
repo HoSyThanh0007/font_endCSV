@@ -1,0 +1,24 @@
+body {
+    font-size: 16px;
+    color: #2a2a2a;
+    line-height: 1.7em;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    background: #ffffff;
+    font-family: 'Tahoma', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    position: relative;
+    font-weight: normal;
+    line-height: 1.25em;
+    margin: 0px;
+    background: none;
+    color: #2a2a2a;
+    font-family: "Open Sans", sans-serif;
+}
